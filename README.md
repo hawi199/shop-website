@@ -19,13 +19,10 @@ This is a responsive and modern Shop Website designed to provide customers with 
 
 ## 📸 Screenshots
 Add your website screenshots here.
-
-Example:
-
-![Shop Website Screenshot](images/shop-screenshot.png)
+![image alt](https://github.com/hawi199/shop-website/blob/e6dfad3b6de3bfc0f90d2a1ffc20ea04986a4afe/fashion1.png)
 
 ## 🚀 Live Demo
-[View Live Website](YOUR-GITHUB-PAGES-LINK)
+[View Live Website](github.hawi199)
 
 ## 📂 Project Structure
 
@@ -40,21 +37,11 @@ Shop-Website/
 └── README.md
 ```
 
-## 💻 How to Run the Project
-
-1. Download or clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-4. Explore the website.
-
-## 🎯 Purpose
-This project was created to improve my frontend web development skills and practice building responsive and interactive websites.
 
 ## 👩‍💻 Author
-**Hawi**
-
-- GitHub: [My GitHub Profile](YOUR-GITHUB-PROFILE-LINK)
-- Portfolio: [My Portfolio](YOUR-PORTFOLIO-LINK)
+Hawi
+-GITHUB:(github.hawi199)
+- Portfolio: [My Portfolio]()
 
 ---
 
